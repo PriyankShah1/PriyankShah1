@@ -1,4 +1,4 @@
-👋 Hi, I’m @PriyankShah
+👋 Hi, I’m @PriyankShah.
 👀 I’m interested in web development, machine learning, and building scalable applications. I love exploring new technologies and pushing the boundaries of what I can create with code.
 🌱 I’m currently learning more about Next.js, TypeScript, and deepening my knowledge of machine learning algorithms to enhance my projects like MusicPAL, a mood-based music recommendation system.
 💞️ I’m looking to collaborate on innovative projects, particularly those involving modern web technologies and AI. I'm eager to work with other passionate developers on open-source projects or startups.
